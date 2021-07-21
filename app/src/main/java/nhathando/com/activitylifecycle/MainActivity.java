@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String TAG = MainActivity.class.getSimpleName();
     private int count;
 
+//    Lợi cập nhật tính năng Gallery
     EditText editText;
     TextView tvCount;
 
