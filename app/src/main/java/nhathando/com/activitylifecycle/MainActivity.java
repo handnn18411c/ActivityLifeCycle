@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String TAG = MainActivity.class.getSimpleName();
     private int count;
 
+    // Hello mọi người
     EditText editText;
     TextView tvCount;
 
