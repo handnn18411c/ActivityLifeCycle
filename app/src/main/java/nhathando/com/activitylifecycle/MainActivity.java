@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private int count;
 
     // Hello mọi người
+//    Lợi cập nhật tính năng Gallery
     EditText editText;
     TextView tvCount;
 
